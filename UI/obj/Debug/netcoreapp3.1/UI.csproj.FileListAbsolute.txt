@@ -1,0 +1,269 @@
+C:\Users\wai.yau3\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.exe
+C:\Users\wai.yau3\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.deps.json
+C:\Users\wai.yau3\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+C:\Users\wai.yau3\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+C:\Users\wai.yau3\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.dll
+C:\Users\wai.yau3\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.pdb
+C:\Users\wai.yau3\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\Controllers.dll
+C:\Users\wai.yau3\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\wai.yau3\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\wai.yau3\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\Controllers.pdb
+C:\Users\wai.yau3\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\wai.yau3\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\wai.yau3\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.csprojAssemblyReference.cache
+C:\Users\wai.yau3\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\wai.yau3\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\wai.yau3\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.cache
+C:\Users\wai.yau3\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.lref
+C:\Users\wai.yau3\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\wai.yau3\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.g.resources
+C:\Users\wai.yau3\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+C:\Users\wai.yau3\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+C:\Users\wai.yau3\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete
+C:\Users\wai.yau3\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.dll
+C:\Users\wai.yau3\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.pdb
+C:\Users\wai.yau3\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\wai.yau3\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\wai.yau3\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\wai.yau3\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\wai.yau3\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wai.yau3\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wai.yau3\Desktop\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.exe
+C:\Users\wai.yau3\Desktop\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.deps.json
+C:\Users\wai.yau3\Desktop\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+C:\Users\wai.yau3\Desktop\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+C:\Users\wai.yau3\Desktop\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.dll
+C:\Users\wai.yau3\Desktop\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.pdb
+C:\Users\wai.yau3\Desktop\OMS_David\UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\wai.yau3\Desktop\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\wai.yau3\Desktop\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\wai.yau3\Desktop\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\wai.yau3\Desktop\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wai.yau3\Desktop\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wai.yau3\Desktop\OMS_David\UI\bin\Debug\netcoreapp3.1\Controllers.dll
+C:\Users\wai.yau3\Desktop\OMS_David\UI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\wai.yau3\Desktop\OMS_David\UI\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\wai.yau3\Desktop\OMS_David\UI\bin\Debug\netcoreapp3.1\Controllers.pdb
+C:\Users\wai.yau3\Desktop\OMS_David\UI\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\wai.yau3\Desktop\OMS_David\UI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\wai.yau3\Desktop\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.csprojAssemblyReference.cache
+C:\Users\wai.yau3\Desktop\OMS_David\UI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\wai.yau3\Desktop\OMS_David\UI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\wai.yau3\Desktop\OMS_David\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.cache
+C:\Users\wai.yau3\Desktop\OMS_David\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.lref
+C:\Users\wai.yau3\Desktop\OMS_David\UI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\wai.yau3\Desktop\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.g.resources
+C:\Users\wai.yau3\Desktop\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+C:\Users\wai.yau3\Desktop\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+C:\Users\wai.yau3\Desktop\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete
+C:\Users\wai.yau3\Desktop\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.dll
+C:\Users\wai.yau3\Desktop\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.pdb
+G:\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.exe
+G:\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.deps.json
+G:\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+G:\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+G:\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.dll
+G:\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.pdb
+G:\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+G:\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\Controllers.dll
+G:\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\DataAccess.dll
+G:\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\Domain.dll
+G:\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\Controllers.pdb
+G:\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\Domain.pdb
+G:\Downloads\OMS_David\UI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+G:\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.csprojAssemblyReference.cache
+G:\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+G:\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\App.g.cs
+G:\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.cache
+G:\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.lref
+G:\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\MainWindow.baml
+G:\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.g.resources
+G:\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+G:\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+G:\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
+G:\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete
+G:\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.dll
+G:\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.pdb
+G:\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.genruntimeconfig.cache
+G:\Downloads\Assignment in progress\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.exe
+G:\Downloads\Assignment in progress\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.deps.json
+G:\Downloads\Assignment in progress\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+G:\Downloads\Assignment in progress\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+G:\Downloads\Assignment in progress\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.dll
+G:\Downloads\Assignment in progress\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.pdb
+G:\Downloads\Assignment in progress\OMS_David\UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+G:\Downloads\Assignment in progress\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Downloads\Assignment in progress\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Downloads\Assignment in progress\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Downloads\Assignment in progress\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Downloads\Assignment in progress\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Downloads\Assignment in progress\OMS_David\UI\bin\Debug\netcoreapp3.1\Controllers.dll
+G:\Downloads\Assignment in progress\OMS_David\UI\bin\Debug\netcoreapp3.1\DataAccess.dll
+G:\Downloads\Assignment in progress\OMS_David\UI\bin\Debug\netcoreapp3.1\Domain.dll
+G:\Downloads\Assignment in progress\OMS_David\UI\bin\Debug\netcoreapp3.1\Controllers.pdb
+G:\Downloads\Assignment in progress\OMS_David\UI\bin\Debug\netcoreapp3.1\Domain.pdb
+G:\Downloads\Assignment in progress\OMS_David\UI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+G:\Downloads\Assignment in progress\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.csprojAssemblyReference.cache
+G:\Downloads\Assignment in progress\OMS_David\UI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+G:\Downloads\Assignment in progress\OMS_David\UI\obj\Debug\netcoreapp3.1\App.g.cs
+G:\Downloads\Assignment in progress\OMS_David\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.cache
+G:\Downloads\Assignment in progress\OMS_David\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.lref
+G:\Downloads\Assignment in progress\OMS_David\UI\obj\Debug\netcoreapp3.1\MainWindow.baml
+G:\Downloads\Assignment in progress\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.g.resources
+G:\Downloads\Assignment in progress\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+G:\Downloads\Assignment in progress\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+G:\Downloads\Assignment in progress\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
+G:\Downloads\Assignment in progress\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete
+G:\Downloads\Assignment in progress\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.dll
+G:\Downloads\Assignment in progress\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.pdb
+G:\Downloads\Assignment in progress\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.genruntimeconfig.cache
+G:\Downloads\Assignment in progress\OMS_David\UI\obj\Debug\netcoreapp3.1\View\AddItem.g.cs
+G:\Downloads\Assignment in progress\OMS_David\UI\obj\Debug\netcoreapp3.1\View\AddOrder.g.cs
+G:\Downloads\Assignment in progress\OMS_David\UI\obj\Debug\netcoreapp3.1\View\OrderDetails.g.cs
+G:\Downloads\Assignment in progress\OMS_David\UI\obj\Debug\netcoreapp3.1\View\OrderIndex.g.cs
+G:\Downloads\Assignment in progress\OMS_David\UI\obj\Debug\netcoreapp3.1\View\AddItem.baml
+G:\Downloads\Assignment in progress\OMS_David\UI\obj\Debug\netcoreapp3.1\View\AddOrder.baml
+G:\Downloads\Assignment in progress\OMS_David\UI\obj\Debug\netcoreapp3.1\View\OrderDetails.baml
+G:\Downloads\Assignment in progress\OMS_David\UI\obj\Debug\netcoreapp3.1\View\OrderIndex.baml
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.csprojAssemblyReference.cache
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\obj\Debug\netcoreapp3.1\View\AddItem.g.cs
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\obj\Debug\netcoreapp3.1\View\AddOrder.g.cs
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\obj\Debug\netcoreapp3.1\View\OrderDetails.g.cs
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\obj\Debug\netcoreapp3.1\View\OrderIndex.g.cs
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.cache
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.lref
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.dll
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.pdb
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.exe
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.deps.json
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.dll
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\bin\Debug\netcoreapp3.1\UI.pdb
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\bin\Debug\netcoreapp3.1\Controllers.dll
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\bin\Debug\netcoreapp3.1\Controllers.pdb
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\obj\Debug\netcoreapp3.1\View\AddItem.baml
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\obj\Debug\netcoreapp3.1\View\AddOrder.baml
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\obj\Debug\netcoreapp3.1\View\OrderDetails.baml
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\obj\Debug\netcoreapp3.1\View\OrderIndex.baml
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.g.resources
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\UI\obj\Debug\netcoreapp3.1\UI.genruntimeconfig.cache
+C:\Users\wai.yau3\Desktop\OMS_David\UI\obj\Debug\netcoreapp3.1\View\AddItem.g.cs
+C:\Users\wai.yau3\Desktop\OMS_David\UI\obj\Debug\netcoreapp3.1\View\AddOrder.g.cs
+C:\Users\wai.yau3\Desktop\OMS_David\UI\obj\Debug\netcoreapp3.1\View\OrderDetails.g.cs
+C:\Users\wai.yau3\Desktop\OMS_David\UI\obj\Debug\netcoreapp3.1\View\OrderIndex.g.cs
+C:\Users\wai.yau3\Desktop\OMS_David\UI\obj\Debug\netcoreapp3.1\View\AddItem.baml
+C:\Users\wai.yau3\Desktop\OMS_David\UI\obj\Debug\netcoreapp3.1\View\AddOrder.baml
+C:\Users\wai.yau3\Desktop\OMS_David\UI\obj\Debug\netcoreapp3.1\View\OrderDetails.baml
+C:\Users\wai.yau3\Desktop\OMS_David\UI\obj\Debug\netcoreapp3.1\View\OrderIndex.baml
+G:\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\View\AddItem.g.cs
+G:\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\View\AddOrder.g.cs
+G:\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\View\OrderDetails.g.cs
+G:\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\View\OrderIndex.g.cs
+G:\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\View\AddItem.baml
+G:\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\View\AddOrder.baml
+G:\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\View\OrderDetails.baml
+G:\Downloads\OMS_David\UI\obj\Debug\netcoreapp3.1\View\OrderIndex.baml
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\bin\Debug\netcoreapp3.1\UI.exe
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\bin\Debug\netcoreapp3.1\UI.deps.json
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\bin\Debug\netcoreapp3.1\UI.dll
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\bin\Debug\netcoreapp3.1\UI.pdb
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\bin\Debug\netcoreapp3.1\Controllers.dll
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\bin\Debug\netcoreapp3.1\DataAccess.dll
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\bin\Debug\netcoreapp3.1\Domain.dll
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\bin\Debug\netcoreapp3.1\Controllers.pdb
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\bin\Debug\netcoreapp3.1\Domain.pdb
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\obj\Debug\netcoreapp3.1\UI.csprojAssemblyReference.cache
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\obj\Debug\netcoreapp3.1\View\AddItem.g.cs
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\obj\Debug\netcoreapp3.1\View\AddOrder.g.cs
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\obj\Debug\netcoreapp3.1\View\OrderDetails.g.cs
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\obj\Debug\netcoreapp3.1\View\OrderIndex.g.cs
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\obj\Debug\netcoreapp3.1\App.g.cs
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.cache
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.lref
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\obj\Debug\netcoreapp3.1\MainWindow.baml
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\obj\Debug\netcoreapp3.1\View\AddItem.baml
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\obj\Debug\netcoreapp3.1\View\AddOrder.baml
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\obj\Debug\netcoreapp3.1\View\OrderDetails.baml
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\obj\Debug\netcoreapp3.1\View\OrderIndex.baml
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\obj\Debug\netcoreapp3.1\UI.g.resources
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\obj\Debug\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\obj\Debug\netcoreapp3.1\UI.dll
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\obj\Debug\netcoreapp3.1\UI.pdb
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\UI\obj\Debug\netcoreapp3.1\UI.genruntimeconfig.cache
+C:\Users\Yau\Desktop\OMS_David v2\UI\bin\Debug\netcoreapp3.1\UI.exe
+C:\Users\Yau\Desktop\OMS_David v2\UI\bin\Debug\netcoreapp3.1\UI.deps.json
+C:\Users\Yau\Desktop\OMS_David v2\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+C:\Users\Yau\Desktop\OMS_David v2\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+C:\Users\Yau\Desktop\OMS_David v2\UI\bin\Debug\netcoreapp3.1\UI.dll
+C:\Users\Yau\Desktop\OMS_David v2\UI\bin\Debug\netcoreapp3.1\UI.pdb
+C:\Users\Yau\Desktop\OMS_David v2\UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Yau\Desktop\OMS_David v2\UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Yau\Desktop\OMS_David v2\UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Yau\Desktop\OMS_David v2\UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Yau\Desktop\OMS_David v2\UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Yau\Desktop\OMS_David v2\UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Yau\Desktop\OMS_David v2\UI\bin\Debug\netcoreapp3.1\Controllers.dll
+C:\Users\Yau\Desktop\OMS_David v2\UI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Yau\Desktop\OMS_David v2\UI\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Yau\Desktop\OMS_David v2\UI\bin\Debug\netcoreapp3.1\Controllers.pdb
+C:\Users\Yau\Desktop\OMS_David v2\UI\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Yau\Desktop\OMS_David v2\UI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Yau\Desktop\OMS_David v2\UI\obj\Debug\netcoreapp3.1\UI.csproj.AssemblyReference.cache
+C:\Users\Yau\Desktop\OMS_David v2\UI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Yau\Desktop\OMS_David v2\UI\obj\Debug\netcoreapp3.1\View\AddItem.g.cs
+C:\Users\Yau\Desktop\OMS_David v2\UI\obj\Debug\netcoreapp3.1\View\AddOrder.g.cs
+C:\Users\Yau\Desktop\OMS_David v2\UI\obj\Debug\netcoreapp3.1\View\OrderDetails.g.cs
+C:\Users\Yau\Desktop\OMS_David v2\UI\obj\Debug\netcoreapp3.1\View\OrderIndex.g.cs
+C:\Users\Yau\Desktop\OMS_David v2\UI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Yau\Desktop\OMS_David v2\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.cache
+C:\Users\Yau\Desktop\OMS_David v2\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.lref
+C:\Users\Yau\Desktop\OMS_David v2\UI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Yau\Desktop\OMS_David v2\UI\obj\Debug\netcoreapp3.1\View\AddItem.baml
+C:\Users\Yau\Desktop\OMS_David v2\UI\obj\Debug\netcoreapp3.1\View\AddOrder.baml
+C:\Users\Yau\Desktop\OMS_David v2\UI\obj\Debug\netcoreapp3.1\View\OrderDetails.baml
+C:\Users\Yau\Desktop\OMS_David v2\UI\obj\Debug\netcoreapp3.1\View\OrderIndex.baml
+C:\Users\Yau\Desktop\OMS_David v2\UI\obj\Debug\netcoreapp3.1\UI.g.resources
+C:\Users\Yau\Desktop\OMS_David v2\UI\obj\Debug\netcoreapp3.1\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yau\Desktop\OMS_David v2\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+C:\Users\Yau\Desktop\OMS_David v2\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+C:\Users\Yau\Desktop\OMS_David v2\UI\obj\Debug\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
+C:\Users\Yau\Desktop\OMS_David v2\UI\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete
+C:\Users\Yau\Desktop\OMS_David v2\UI\obj\Debug\netcoreapp3.1\UI.dll
+C:\Users\Yau\Desktop\OMS_David v2\UI\obj\Debug\netcoreapp3.1\UI.pdb
+C:\Users\Yau\Desktop\OMS_David v2\UI\obj\Debug\netcoreapp3.1\UI.genruntimeconfig.cache

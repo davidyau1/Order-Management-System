@@ -1,0 +1,62 @@
+C:\Users\wai.yau3\Downloads\OMS_David\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\wai.yau3\Downloads\OMS_David\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\wai.yau3\Downloads\OMS_David\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\wai.yau3\Downloads\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\Users\wai.yau3\Downloads\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\wai.yau3\Downloads\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\wai.yau3\Downloads\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\wai.yau3\Downloads\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.pdb
+C:\Users\wai.yau3\Desktop\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\Users\wai.yau3\Desktop\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\wai.yau3\Desktop\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\wai.yau3\Desktop\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\wai.yau3\Desktop\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.pdb
+C:\Users\wai.yau3\Desktop\OMS_David\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\wai.yau3\Desktop\OMS_David\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\wai.yau3\Desktop\OMS_David\Domain\bin\Debug\netstandard2.0\Domain.pdb
+G:\Downloads\OMS_David\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+G:\Downloads\OMS_David\Domain\bin\Debug\netstandard2.0\Domain.dll
+G:\Downloads\OMS_David\Domain\bin\Debug\netstandard2.0\Domain.pdb
+G:\Downloads\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+G:\Downloads\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+G:\Downloads\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+G:\Downloads\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+G:\Downloads\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.dll
+G:\Downloads\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.pdb
+G:\Downloads\Assignment in progress\OMS_David\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+G:\Downloads\Assignment in progress\OMS_David\Domain\bin\Debug\netstandard2.0\Domain.dll
+G:\Downloads\Assignment in progress\OMS_David\Domain\bin\Debug\netstandard2.0\Domain.pdb
+G:\Downloads\Assignment in progress\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+G:\Downloads\Assignment in progress\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+G:\Downloads\Assignment in progress\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+G:\Downloads\Assignment in progress\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+G:\Downloads\Assignment in progress\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.dll
+G:\Downloads\Assignment in progress\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.pdb
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\wai.yau3\Downloads\OMS_David-20210608T231027Z-001\OMS_David\Domain\obj\Debug\netstandard2.0\Domain.pdb
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\Domain\bin\Debug\netstandard2.0\Domain.dll
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\Domain\bin\Debug\netstandard2.0\Domain.pdb
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\Domain\obj\Debug\netstandard2.0\Domain.dll
+G:\Downloads\Assignment in progress\Prog2 Project\OMS_David v2\Domain\obj\Debug\netstandard2.0\Domain.pdb
+C:\Users\Yau\Desktop\OMS_David v2\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\Yau\Desktop\OMS_David v2\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\Yau\Desktop\OMS_David v2\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\Yau\Desktop\OMS_David v2\Domain\obj\Debug\netstandard2.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Yau\Desktop\OMS_David v2\Domain\obj\Debug\netstandard2.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yau\Desktop\OMS_David v2\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Yau\Desktop\OMS_David v2\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\Yau\Desktop\OMS_David v2\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Yau\Desktop\OMS_David v2\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\Yau\Desktop\OMS_David v2\Domain\obj\Debug\netstandard2.0\Domain.pdb

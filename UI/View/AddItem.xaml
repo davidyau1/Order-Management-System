@@ -1,0 +1,38 @@
+﻿<Page x:Class="UI.View.AddItem"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:UI.View"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AddItem">
+
+    <StackPanel>
+        <Grid Height="61">
+            <Label Content="Quantity of Items" HorizontalAlignment="Left" Margin="50,26,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="quantityTB" HorizontalAlignment="Left" Margin="159,30,0,0" Text="{Binding Quantity}" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+
+        </Grid>
+        <Grid>
+            <DataGrid x:Name="dgItems" IsReadOnly="True" AutoGenerateColumns="False" Margin="0,0,0,-389" >
+
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="SKU" Binding="{Binding Id}" />
+                    <DataGridTextColumn Header="Name" Binding="{Binding Name}"/>
+                    <DataGridTextColumn Header="Price" Binding="{Binding Price}" />
+                    <DataGridTextColumn Header="In Stock" Binding="{Binding InStock}"/>
+                    <DataGridTemplateColumn  >
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Content="Select Item" Click="AddItem_Click"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+
+            </DataGrid>
+        </Grid>
+    </StackPanel>
+</Page>
